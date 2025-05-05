@@ -1,2 +1,2 @@
 # Spotify-Clone
-This is Spotify simple Spotify clone using HTML and CSS
+URL :- https://spotify-clone-puce-tau.vercel.app/
